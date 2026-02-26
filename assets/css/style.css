@@ -368,7 +368,7 @@ ul {
 /* start hero style */
 .hero {
 
-    background-image: url('../assets/images/food.jpg') ;
+    background-image: url('https://zeze68011-stack.github.io/assets/images/food.jpg') ;
     border-radius: 15px;
     background-size: cover;
     background-position: center;
@@ -638,4 +638,5 @@ ul {
 
 
 }
+
 
