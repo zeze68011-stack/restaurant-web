@@ -26,6 +26,7 @@ ul {
 .navbar {
     background-color: var(--main-color) !important;
     box-shadow: 1px 1px 6px 1px #3a2c2c;
+    overflow-x: hidden !important;
 
 
 }
@@ -123,7 +124,7 @@ ul {
     margin-top: 20px;
     display: flex;
     align-items: center;
-
+    overflow-x: hidden !important;
 
 }
 
@@ -188,6 +189,7 @@ ul {
     align-items: center;
     height: 100vh;
     padding: 20px;
+    overflow-x: hidden !important;
 }
 
 .about h2 {
@@ -282,7 +284,7 @@ ul {
     margin-top: 15px;
     margin-bottom: 15px;
     padding: 10px;
-
+    overflow-x: hidden !important;
 }
 
 @media (max-width:768px) {
@@ -374,6 +376,7 @@ ul {
     background-position: center;
     margin-top: 20px;
     height: 100vh;
+    overflow-x: hidden !important;
 }
 
 .hero-container {
@@ -420,6 +423,7 @@ ul {
 .questions {
     background-color: #fffaf5;
     height: 100vh;
+    overflow-x: hidden !important;
 }
 
 .questions-title h2 {
@@ -469,6 +473,7 @@ ul {
     justify-content: end;
     align-items: center;
     height: 100vh;
+    overflow-x: hidden !important;
 }
 
 .location h2 {
@@ -551,6 +556,7 @@ ul {
     background-color: #3e2723f3;
     color: #ccc;
     box-shadow: 1px 1px 8px 1px #3a2c2c;
+    overflow-x: hidden !important;
 }
 
 .footer h5 {
@@ -638,6 +644,7 @@ ul {
 
 
 }
+
 
 
 
