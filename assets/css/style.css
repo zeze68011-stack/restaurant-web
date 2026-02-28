@@ -9,7 +9,7 @@
 body {
     font-family: cairo;
     background-color: #f8f1e9;
-    overflow-x: hidden ;
+    overflow-x: hidden !important;
 }
 
 a {
@@ -644,6 +644,7 @@ ul {
 
 
 }
+
 
 
 
